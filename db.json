@@ -1,0 +1,61 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "json-server",
+        "author": "typicode"
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    },
+    "anggota": [
+      {
+        "namaDepan": "Azis",
+        "namaBelakang": "Nurrahman",
+        "email": "azisnurrahman54@gmail.com",
+        "ttl": "2003-01-08T17:00:00.000Z",
+        "kota": "Sleman",
+        "id": 1
+      },
+      {
+        "namaDepan": "Azis",
+        "namaBelakang": "Nurrahman",
+        "email": "azisnurrahman54@gmail.com",
+        "ttl": "2000-01-10T17:00:00.000Z",
+        "kota": "Sleman",
+        "id": 2
+      },
+      {
+        "namaDepan": "dasas",
+        "namaBelakang": "dasda",
+        "email": "ad@gmail.com",
+        "ttl": "2002-01-08T17:00:00.000Z",
+        "kota": "dad",
+        "id": 3
+      },
+      {
+        "namaDepan": "asda",
+        "namaBelakang": "daad",
+        "email": "aa@gmail.com",
+        "ttl": "+020022-01-08T17:00:00.000Z",
+        "kota": "adasdfsa",
+        "id": 4
+      },
+      {
+        "namaDepan": "adlian",
+        "namaBelakang": "saputra",
+        "email": "azisnurrahman54@gmail.com",
+        "ttl": "2222-01-08T17:00:00.000Z",
+        "kota": "Sleman",
+        "id": 5
+      }
+    ]
+  }
